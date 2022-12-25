@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Patrickpwq的博客</title>
-        <link>https://Patrickpwq.github.io/</link>
-        <description>Recent content on Patrickpwq的博客</description>
+        <title>Posts on Patrickpwq的博客</title>
+        <link>https://Patrickpwq.github.io/post/</link>
+        <description>Recent content in Posts on Patrickpwq的博客</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Thu, 24 Nov 2022 20:55:39 +0800</lastBuildDate><atom:link href="https://Patrickpwq.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 24 Nov 2022 20:55:39 +0800</lastBuildDate><atom:link href="https://Patrickpwq.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hugo页面组织</title>
         <link>https://Patrickpwq.github.io/p/hugo%E9%A1%B5%E9%9D%A2%E7%BB%84%E7%BB%87/</link>
         <pubDate>Thu, 24 Nov 2022 20:55:39 +0800</pubDate>
@@ -143,22 +143,6 @@
 &lt;p&gt;好的。出于整齐性，你可以还是&lt;code&gt;content/About/index.md&lt;/code&gt;；当然，&lt;code&gt;content/About.md&lt;/code&gt;也是可以的。&lt;/p&gt;
 &lt;p&gt;这两种，Hugo 都会使用&lt;code&gt;single.html&lt;/code&gt;的模板&lt;/p&gt;
 </description>
-        </item>
-        <item>
-        <title>Archives</title>
-        <link>https://Patrickpwq.github.io/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://Patrickpwq.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>https://Patrickpwq.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Patrickpwq.github.io/search/</guid>
-        <description></description>
         </item>
         
     </channel>

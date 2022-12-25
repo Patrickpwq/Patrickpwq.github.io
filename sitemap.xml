@@ -2,45 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://Patrickpwq.github.io/posts/</loc>
-    <lastmod>2022-11-30T11:29:42+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://Patrickpwq.github.io/</loc>
-    <lastmod>2022-11-30T11:29:42+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://Patrickpwq.github.io/posts/%E5%A7%93%E5%90%8D%E5%AD%A6%E5%8F%B7/</loc>
-    <lastmod>2022-11-30T11:29:42+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://Patrickpwq.github.io/posts/%E5%85%B3%E4%BA%8Ehugo%E9%A1%B5%E9%9D%A2%E7%BB%84%E7%BB%87%E7%9A%84%E4%B8%80%E4%BA%9B%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2022-11-24T20:55:39+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://Patrickpwq.github.io/posts/%E6%9C%AC%E5%8D%9A%E5%AE%A2%E4%B8%AA%E6%80%A7%E5%8C%96%E7%9A%84%E5%8A%9F%E8%83%BD/</loc>
-    <lastmod>2022-11-22T21:16:28+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://Patrickpwq.github.io/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <lastmod>2022-11-24T20:55:39+08:00</lastmod>
   </url><url>
-    <loc>https://Patrickpwq.github.io/contact/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <loc>https://Patrickpwq.github.io/categories/hugo/</loc>
+    <lastmod>2022-11-24T20:55:39+08:00</lastmod>
+  </url><url>
+    <loc>https://Patrickpwq.github.io/p/hugo%E9%A1%B5%E9%9D%A2%E7%BB%84%E7%BB%87/</loc>
+    <lastmod>2022-11-24T20:55:39+08:00</lastmod>
+  </url><url>
+    <loc>https://Patrickpwq.github.io/post/</loc>
+    <lastmod>2022-11-24T20:55:39+08:00</lastmod>
+  </url><url>
+    <loc>https://Patrickpwq.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Patrickpwq.github.io/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://Patrickpwq.github.io/categories/c-primer-plus-%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</loc>
+  </url><url>
+    <loc>https://Patrickpwq.github.io/categories/markdown/</loc>
+  </url><url>
+    <loc>https://Patrickpwq.github.io/search/</loc>
   </url><url>
     <loc>https://Patrickpwq.github.io/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://Patrickpwq.github.io/about/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
